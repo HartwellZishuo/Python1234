@@ -1,4 +1,6 @@
 
+t=1 
+m=2
 import turtle as t
 import time
 import random
