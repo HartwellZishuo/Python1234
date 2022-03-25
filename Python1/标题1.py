@@ -12,7 +12,7 @@ class Win:
         #设置窗口大小和位置
         self.root.geometry("900x520+500+300")
         #设置窗口的标题
-        self.root.title("在tkinter上画图：04组--胡洪波")
+        self.root.title("在tkinter上画图：02组--黄子硕")
         #self.root.iconbitmap("img/edit.ico")
         #定义类变量
         self.fen=tk.StringVar()#字符型数据
